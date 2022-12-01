@@ -5,7 +5,8 @@ I'm Erik Sund, graduate of CodeClan looking for my first job in the industry. Th
 ### 🔭 I’m currently working on...
 
 Bob's Burgers single page web application using React to try stuff out.
-Santo Pekoa International Airport for MSFS [![NVSS][NVSS-pic]][NVSS-url]
+Santo Pekoa International Airport for MSFS [![NVSS][NVSS-pic]][NVSS-url].
+Planning stage of a drivers in-cab app using the Network Rail API.
 
 ### 🌱 I’m currently learning...
 [![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url] ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/erik-sund?style=for-the-badge)
