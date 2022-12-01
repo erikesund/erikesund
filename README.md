@@ -8,7 +8,7 @@ Bob's Burgers single page web application using React to try stuff out.
 Santo Pekoa International Airport for MSFS [![NVSS][NVSS-pic]][NVSS-url]
 
 ### 🌱 I’m currently learning...
-[![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url]
+[![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url] ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/erik-sund?style=for-the-badge)
 
 <!--
 **erikesund/erikesund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
