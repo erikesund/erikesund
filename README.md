@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [MongoDB-pic]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com/
 [NVSS-pic]: https://img.shields.io/badge/NVSS-MSFS%20Airport-brightgreen
-[NVSS-url]: https://flightsim.to/file/6821/nvss-santo-pekoa-international-airport-vanuatu
+[NVSS-url]: https://flightsim.to/file/6821/nvss-santo-pekoa-international-airport-vanuatu?style=for-the-badge&logo=appveyor
 [Node-pic]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/
 [Postgres-pic]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
