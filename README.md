@@ -4,8 +4,11 @@ I'm Erik Sund, graduate of CodeClan looking for my first job in the industry. Th
 
 ### 🔭 I’m currently working on...
 
-Bob's Burgers single page web application using [![React][React-pic]][React-url] to try stuff out.
+Bob's Burgers single page web application using React to try stuff out.
 Santo Pekoa International Airport for MSFS [![NVSS][NVSS-pic]][NVSS-url]
+
+### 🌱 I’m currently learning...
+[![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url]
 
 <!--
 **erikesund/erikesund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
