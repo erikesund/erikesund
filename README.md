@@ -11,7 +11,7 @@ Planning stage of a drivers in-cab app using the Network Rail API.
 ### 🌱 I’m currently learning...
 
 Keeping my skills fresh using FreeCodeCamp and HackerRank.  
-![freeCodeCamp points](https://img.shields.io/freecodecamp/points/erik-sund?style=for-the-badge)[![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url]
+![freeCodeCamp points](https://img.shields.io/freecodecamp/points/erik-sund?style=for-the-badge) [![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url]
 
 ### 💬 Ask me about...
 Pakora
