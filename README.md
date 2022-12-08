@@ -9,8 +9,8 @@ Santo Pekoa International Airport for MSFS [![NVSS][NVSS-pic]][NVSS-url].
 Planning stage of a drivers in-cab app using the Network Rail API.
 
 ### 🌱 I’m currently learning...
-[![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url] 
-Keeping my skills fresh using FreeCodeCamp and HackerRank. 
+[![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url]  
+Keeping my skills fresh using FreeCodeCamp and HackerRank.  
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/erik-sund?style=for-the-badge)
 
 ### 💬 Ask me about...
