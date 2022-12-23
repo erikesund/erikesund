@@ -4,9 +4,9 @@ I'm Erik Sund, graduate of CodeClan looking for my first job in the industry. Th
 
 ### 🔭 I’m currently working on...
 
-Bob's Burgers single page web application using React to try stuff out.
+Bob's Burgers single page web application using React to try stuff out.  
+Initial stages of a train drivers in-cab app using the Network Rail API.  
 Santo Pekoa International Airport for MSFS [![NVSS][NVSS-pic]][NVSS-url].
-Planning stage of a drivers in-cab app using the Network Rail API.
 
 ### 🌱 I’m currently learning...
 
