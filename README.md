@@ -4,7 +4,7 @@ I'm Erik Sund, graduate of CodeClan looking for my first job in the industry. Th
 
 ### 🔭 I’m currently working on...
 
-MERN stack train driver and office rostering system using the Network Rail API.
+MERN stack train driver and office rostering system using the Network Rail API.  
 Bob's Burgers single page web application using React to try stuff out.    
 Santo Pekoa International Airport for MSFS [![NVSS][NVSS-pic]][NVSS-url].
 
