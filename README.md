@@ -1,4 +1,4 @@
-### Hello there 👋
+### 👋 Hello there
 
 I'm Erik Sund, graduate of CodeClan looking for my first job in the industry. This is where anything that I'm working on (or have finished) will live.  
 
