@@ -2,18 +2,22 @@
 
 I'm Erik Sund, graduate of CodeClan looking for my first job in the industry. This is where anything that I'm working on (or have finished) will live.
 
-### 🔭 I’m currently working on...
+### 🔭 I’m currently working on
 
 MERN stack train driver and office rostering system using the Network Rail API.  
 Bob's Burgers single page web application using React to try stuff out.    
 Santo Pekoa International Airport for MSFS [![NVSS][NVSS-pic]][NVSS-url].
 
-### 🌱 I’m currently learning...
+### 🌱 I’m currently learning
 
 Keeping my skills fresh using FreeCodeCamp and HackerRank.  
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/erik-sund?style=for-the-badge) [![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url]
 
-### 💬 Ask me about...
+### ⚡ Tech Stack
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,mongodb,java,html,css,wasm)](https://skills.thijs.gg)
+
+### 💬 Ask me about
 Pakora
 
 <!--
