@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-I'm Erik Sund, graduate of CodeClan looking for my first job in the industry. This is where anything that I'm working on (or have finished) will live.
+I'm Erik Sund, graduate of CodeClan looking for my first job in the industry. This is where anything that I'm working on (or have finished) will live.  
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,mongodb,java,html,css,py)](https://skills.thijs.gg)
 
 ### 🔭 I’m currently working on
 
@@ -12,10 +14,6 @@ Santo Pekoa International Airport for MSFS [![NVSS][NVSS-pic]][NVSS-url].
 
 Keeping my skills fresh using FreeCodeCamp and HackerRank.  
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/erik-sund?style=for-the-badge) [![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url]
-
-### ⚡ Tech Stack
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,mongodb,java,html,css,py)](https://skills.thijs.gg)
 
 ### 💬 Ask me about
 Pakora
