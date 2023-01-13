@@ -15,7 +15,7 @@ Keeping my skills fresh using FreeCodeCamp and HackerRank.
 
 ### ⚡ Tech Stack
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,mongodb,java,html,css,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,mongodb,java,html,css,py)](https://skills.thijs.gg)
 
 ### 💬 Ask me about
 Pakora
