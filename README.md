@@ -13,7 +13,7 @@ Santo Pekoa International Airport for MSFS [![NVSS][NVSS-pic]][NVSS-url].
 ### 🌱 I’m currently learning
 
 Keeping my skills fresh using FreeCodeCamp and HackerRank.  
-![freeCodeCamp points](https://img.shields.io/freecodecamp/points/erik-sund?style=for-the-badge) [![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url]
+[![JavaScript][JavaScript-pic]][JavaScript-url] [![React][React-pic]][React-url]
 
 ### 💬 Ask me about
 Pakora
